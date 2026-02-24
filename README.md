@@ -16,7 +16,11 @@ Along the way, you must survive, explore, and push forward in pursuit of glory a
 
 ## 🖼️ Screenshots
 
+Menu:
+
 ![Gameplay Screenshot](pictures/pic1.png)
+
+Game play:
 
 ![Gameplay Screenshot](pictures/pic2.png)
 
